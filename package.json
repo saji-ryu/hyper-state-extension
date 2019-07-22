@@ -1,0 +1,19 @@
+{
+  "name": "hyper-state-extension",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saji-ryu/hyper-state-extension.git"
+  },
+  "author": "Ryusei Sajiki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saji-ryu/hyper-state-extension/issues"
+  },
+  "homepage": "https://github.com/saji-ryu/hyper-state-extension#readme"
+}
